@@ -21,7 +21,7 @@ setup(
         'Issue tracker': 'https://github.com/Starwort/discord.gui/issues'
     },
 
-    version='1.0.1',
+    version='1.0.2',
     packages=['discord_gui'],
     include_package_data=True,
     install_requires=REQUIREMENTS,
