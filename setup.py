@@ -6,7 +6,7 @@ from setuptools import setup
 
 ROOT = pathlib.Path(__file__).parent
 
-with open(ROOT / 'requirements' / 'pypi.txt', 'r', encoding='utf-8') as f:
+with open(ROOT / 'requirements.txt', 'r', encoding='utf-8') as f:
     REQUIREMENTS = f.read().splitlines()
 
 setup(
