@@ -32,7 +32,6 @@ setup(
         'Development Status :: 4 - Beta',
         'Framework :: AsyncIO',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GNU GPL 3',
         'Natural Language :: English',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 3 :: Only',
